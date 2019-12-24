@@ -1,2 +1,0 @@
-# splittest
-testing Deezer tool
